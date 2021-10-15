@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/pickFile"
+        android:icon="@drawable/ic_dowload"
+        android:title="@string/pick_file"
+        app:showAsAction="always" />
+
+    <item
+        android:icon="@drawable/ic_marcador"
+        android:id="@+id/marcador"
+        android:title="@string/market"
+        app:showAsAction="always" />
+
+</menu>

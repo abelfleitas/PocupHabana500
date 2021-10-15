@@ -1,0 +1,120 @@
+<resources>
+    <string name="app_name">PocuP Habana 500</string>
+    <string name="title_app">
+        POBLACIÓN Y OCUPACIÓN DEL ESPACIO
+        GEOGRÁFICO DE LA HABANA:
+        DESDE LA FUNDACIÓN DE LA VILLA
+        HASTA LA CAPITAL DE TODOS LOS CUBANOS
+    </string>
+    <string name="app_name_bottom">
+        Edición Limitada \n
+            Habana 500
+    </string>
+    <string name="market">Marcador</string>
+    <string name="pick_file">Descargar Archivo</string>
+
+    <string name="publi">Publicación</string>
+    <string name="intro">INTRODUCCIÓN</string>
+    <string name="parte1">PARTE I</string>
+    <string name="parte2">PARTE II</string>
+    <string name="parte3">PARTE III</string>
+    <string name="parte4">PARTE IV</string>
+    <string name="bibliografia">BIBLIOGRAFIA</string>
+    <string name="anexo">ANEXOS</string>
+
+    <string name="co_autor">Programación</string>
+    <string name="autor2">Ing. Abel Alejandro Fleitas Perdomo</string>
+
+     <string name="texto_onei">
+            Es un aplicación para la plataforma Android
+        desarrollada por el departamento de Informática de la Oficina Provincial
+        de Estadísticas e Información (OPEI) de la provincia Villa Clara.
+        \n
+    </string>
+
+    <string name="text1">
+        Dos características relevantes se han puesto de manifiesto en el desarrollo histórico de la Ciudad de La
+        Habana, una es su papel preponderante en el mundo de la España colonial debido a la importancia de su
+        puerto, su astillero y sus obras militares y civiles, mientras que la otra ha sido la celeridad con que los
+        adelantos tecnológicos de todo tipo se implantaron en ella.
+    </string>
+
+    <string name="text2">
+        Entre dichos adelantos se cuentan la Zanja Real (1592); el sistema de fortalezas (1779); la pavimentación
+        de las calles (1780); el ferrocarril primero que enla metrópoli (1837); el gas (1848); el telégrafo (1855); el
+        teléfono (1881); el alumbrado eléctrico (1890); el cinematógrafo (1897); el automóvil y el tranvía eléctrico
+        (1901); la radio (1922); la televisión en blanco y negro y en colores (1950 y 1958) más un rosario
+        interminable de valiosas obras de ingeniería y arquitectura que demuestran la capacidad y el sentido
+        innovador que caracterizan a sus habitantes.
+        Estrategia, Grupo para el Desarrollo Integral de laCapital, 1995.
+    </string>
+
+
+    <string name="addedHomeScreenShortcout">Acceso directo en pantalla de inicio creado</string>
+    <string name="co_categoria">General</string>
+    <string name="co_lector">Lector PDF</string>
+    <string name="homeScreenShortcout">Crear acceso directo en pantalla de inicio</string>
+    <string name="addHomeScreenShortcout">Crear acceso directo en pantalla de inicio para acceder directamente a Habana 500</string>
+    <string name="rebootAppHeader">Inicio automático</string>
+    <string name="rebootApp3">Abrir la aplicación siempre que se encienda el smartphone.</string>
+    <string name="shut_down">No apagar la pantalla</string>
+    <string name="shut_down_text">Mantener la pantalla siempre encendidad</string>
+    <string name="full_screen">Pantalla Completa</string>
+    <string name="activo">Activado</string>
+    <string name="desactivo">Desactivado</string>
+    <string name="pref_msj_orientacion">Paginación</string>
+    <string name="action_settings">PREFERENCIAS</string>
+    <string name="activity_acercade">ACERCA DE</string>
+    <string name="alerta2">Alerta!!!</string>
+    <string name="rebootError2">Ha ocurrido un error al iniciar la aplicación. Por favor, contáctenos</string>
+    <string name="contact_us">Contáctenos</string>
+    <string name="error">Error</string>
+    <string name="choose">Elija la aplicación</string>
+    <string name="noappemail">No posee aplicaciones para poder enviar correos</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="anho_publicacion">Octubre de 2019</string>
+    <string name="navigation_drawer_open">Abrir menú de navegación</string>
+    <string name="navigation_drawer_close">Cerrar menú de navegación</string>
+    <string name="bugs">Reportar problema</string>
+    <string name="bugs_description">
+        Reportar errores que le han sucedido a usted o conocidos.
+        Contribuya a la mejora de nuestra aplicación
+    </string>
+    <string name="sugerencia">Sugerencia</string>
+    <string name="sugerencia_description">
+        Descríbanos cambios que deberíamos realizar para perfeccionar la aplicación.
+    </string>
+    <string name="error_app_version">Error Habana 500</string>
+    <string name="abel_email">afleitasp@gmail.com</string>
+    <string name="co_mail">E-mail</string>
+    <string name="co_email">usuario@onei.gob.cu</string>
+    <string name="co_tel1">Teléfono</string>
+    <string name="co_web1">Página Web</string>
+    <string name="co_tel">(537)836 9191</string>
+    <string name="co_fax1">Fax</string>
+    <string name="co_fax">(053)833 3083</string>
+    <string name="co_web">http://www.onei.cu</string>
+    <string name="co_direccion">Dirección</string>
+    <string name="confirm">Confirmación</string>
+    <string name="confirm_exit">¿Está seguro que desea salir?</string>
+    <string name="md_cancel_label">Cancelar</string>
+    <string name="co_address">
+        Paseo No.60 e/3ra y 5ta Vedado Plaza de la Revolución, La Habana Cuba. Código Postal 10400
+    </string>
+    <string name="co_redes">Redes Sociales</string>
+    <string name="co_facebook">https://www.facebook.com/onei.gob.cu</string>
+    <string name="action_contact">CONTACTO - ONEI</string>
+    <string name="call_email">No existe una aplicación para realizar esta tarea</string>
+    <string name="co_telreal">537 836 9191</string>
+    <string-array name="scroll_orientacion">
+        <item>Vertical</item>
+        <item>Horizontal</item>
+    </string-array>
+
+    <string-array name="scroll_orientacion_num">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <PreferenceCategory
+            android:title="@string/co_categoria">
+
+                <Preference
+                    android:title="@string/homeScreenShortcout"
+                    android:key="pref_homescreen_shortcut"
+                    android:summary="@string/addHomeScreenShortcout" />
+
+                <CheckBoxPreference
+                    android:key="reboot"
+                    android:title="@string/rebootAppHeader"
+                    android:soundEffectsEnabled="true"
+                    android:checked="false"
+                    android:summary="@string/rebootApp3"
+                    android:defaultValue="false"
+                    android:id="@+id/reboot"/>
+
+        </PreferenceCategory>
+
+        <PreferenceCategory
+            android:title="@string/co_lector">
+
+                <CheckBoxPreference
+                    android:key="no_shut_down"
+                    android:title="@string/shut_down"
+                    android:icon="@drawable/ic_no_suhut"
+                    android:defaultValue="false"
+                    android:summary="@string/shut_down_text" />
+
+                <SwitchPreference
+                    android:key="full_screen"
+                    android:title="@string/full_screen"
+                    android:icon="@drawable/ic_full_screen"
+                    android:summaryOff="@string/desactivo"
+                    android:checked="false"
+                    android:persistent="true"
+                    android:summaryOn="@string/activo" />
+
+                <ListPreference
+                    android:key="orientacion"
+                    android:defaultValue="1"
+                    android:entries="@array/scroll_orientacion"
+                    android:entryValues="@array/scroll_orientacion_num"
+                    android:dialogTitle="@string/pref_msj_orientacion"
+                    android:persistent="true"
+                    android:summary="Vertical"
+                    android:icon="@drawable/ic_rotation"
+                    android:dialogIcon="@drawable/ic_rotation"
+                    android:title="@string/pref_msj_orientacion"
+                    android:selectable="true"/>
+
+        </PreferenceCategory>
+
+</PreferenceScreen>
+

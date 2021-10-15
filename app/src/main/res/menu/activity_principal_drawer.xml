@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/publi">
+        <menu>
+            <item
+                android:id="@+id/intro"
+                android:icon="@drawable/ic_file"
+                android:title="@string/intro" />
+            <item
+                android:id="@+id/parte1"
+                android:icon="@drawable/ic_file"
+                android:title="@string/parte1" />
+            <item
+                android:id="@+id/parte2"
+                android:icon="@drawable/ic_file"
+                android:title="@string/parte2" />
+            <item
+                android:id="@+id/parte3"
+                android:icon="@drawable/ic_file"
+                android:title="@string/parte3" />
+            <item
+                android:id="@+id/parte4"
+                android:icon="@drawable/ic_file"
+                android:title="@string/parte4" />
+            <item
+                android:id="@+id/bibliografia"
+                android:icon="@drawable/ic_file"
+                android:title="@string/bibliografia" />
+            <item
+                android:id="@+id/anexo"
+                android:icon="@drawable/ic_file"
+                android:title="@string/anexo" />
+        </menu>
+    </item>
+
+</menu>
