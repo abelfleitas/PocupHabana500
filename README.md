@@ -1,4 +1,4 @@
-# PocupHabana500
+# PocuP Habana 500
 Aplicación Android conmemorativa por el 500 Aniversario de la Habana.
 
 <a href="https://drive.google.com/file/d/1wlHMct5cb75ik0-v-sDmvJ3gSXCwi4QL/view?usp=sharing">PocuP Habana 500<a>
